@@ -54,3 +54,7 @@ A simple Python script to scan directories on a target website and identify acce
     [*] Enter Target URL: 127.0.0.1
     [*] Enter Name Of The File Containing Directories: common.txt
     ```
+    
+## Notes 📝
+- Always ensure you have proper authorization to scan a website.
+- Unauthorized scanning may violate laws and terms of service.
