@@ -24,7 +24,7 @@ A simple Python script to scan directories on a target website and identify acce
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-repo/directory-scanner.git
+   git clone https://github.com/fadlyfatih1/directory-scanner.git
    cd directory-scanner
    ```
    
